@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhurenren
-- 👀 I’m interested in MATLAB
-- 🌱 I’m currently learning MATLAB
+- 👀 I’m interested in UDEC
+- 🌱 I’m currently learning UDEC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 18371412451@163.com
 
